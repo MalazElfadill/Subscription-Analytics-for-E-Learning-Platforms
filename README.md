@@ -11,8 +11,8 @@ Customer churn analysis
 Upgrade behavior analysis
 KPI monitoring
 Interactive business storytelling
-
 using Power BI, SQL views, DAX measures, and data modeling techniques.
+
 Project Objectives
 
 The main objectives of this project were to:
@@ -26,6 +26,7 @@ Identify patterns affecting customer retention
 Build an interactive dashboard for business users
 
 Key business logic:
+
 - Classifying purchases as Revenue or Refund
 - Calculating Net Revenue
 - Mapping subscription types (Monthly, Annual, Lifetime)
@@ -34,6 +35,7 @@ Key business logic:
 - Monthly churn trend calculations
 
 *Key Insights*
+
 Revenue Insights
 Annual subscriptions generated the highest revenue contribution.
 Refund values remained relatively low compared to total revenue.
@@ -79,7 +81,7 @@ Recommend premium features during active usage periods
 
 *Tools & Technologies*
 Power BI
-SQL
+MYSQL
 DAX
 Power Query
 Data Modeling
