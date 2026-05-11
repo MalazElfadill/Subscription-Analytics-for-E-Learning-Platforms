@@ -117,4 +117,7 @@ Business Intelligence
 
 ## Author
 
-*Malaz Elfadil* Data & Business Intelligence Analyst
+**Malaz Elfadil**  
+*Data and Business Intelligence Analyst*  
+ **Email:** [malaz.elfadill@gmail.com]
+ **LinkedIn:** [(https://www.linkedin.com/in/malazelfadil/)]
