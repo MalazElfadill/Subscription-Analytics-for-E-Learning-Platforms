@@ -21,7 +21,7 @@ Interactive business storytelling
 using Power BI, SQL views, DAX measures, and data modeling techniques.
 
 
-**Project Objectives**
+## Project Objectives**
 
 The main objectives of this project were to:
 
@@ -34,7 +34,7 @@ Identify patterns affecting customer retention
 Build an interactive dashboard for business users
 
 
-**Key business logic:**
+## Key business logic:**
 
 - Classifying purchases as Revenue or Refund
 - Calculating Net Revenue
@@ -45,7 +45,7 @@ Build an interactive dashboard for business users
 
 
 
-***Key Insights***
+## Key Insights***
 
 **Revenue Insights**
 
@@ -71,7 +71,7 @@ Upgrade timing analysis revealed long customer decision cycles before upgrading.
 
 
 
-**Business Recommendations**
+## Business Recommendations**
 
 Improve Retention Strategies
 
@@ -89,14 +89,6 @@ Reduce Passive Churn
 Passive churn users may indicate disengagement.
 
 
-
-**Recommended actions:**
-
-Automated renewal reminders
-Customer engagement campaigns
-Learning activity notifications
-Optimize Upgrade Opportunities
-
 Since customers take a long time before upgrading:
 
 Introduce upgrade incentives earlier
@@ -105,7 +97,7 @@ Recommend premium features during active usage periods
 
 
 
-**Tools & Technologies**
+## Tools & Technologies**
 
 Power BI
 
@@ -123,6 +115,6 @@ Business Intelligence
 
 
 
-**Author**
+## Author**
 
 *Malaz Elfadil* Data & Business Intelligence Analyst
