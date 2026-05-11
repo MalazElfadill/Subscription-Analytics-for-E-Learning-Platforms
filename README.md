@@ -1,10 +1,10 @@
-Subscription Analytics for E-Learning Platforms
+#Subscription Analytics for E-Learning Platforms
 
 An end-to-end Power BI business intelligence project developed to analyze customer churn, subscription revenue performance, and upgrade behavior for an e-learning platform.
 
 
 
-**Project Overview**
+##Project Overview
 
 This project is an end-to-end Power BI business intelligence solution designed for an e-learning platform to analyze customer behavior, subscription performance, churn trends, and upgrade patterns.
 
