@@ -85,6 +85,7 @@ Offer targeted promotions
 Recommend premium features during active usage periods
 
 **Tools & Technologies**
+
 Power BI
 MYSQL
 DAX
@@ -95,4 +96,5 @@ Business Intelligence
 
 
 **Author**
+
 *Malaz Elfadil* Data & Business Intelligence Analyst
